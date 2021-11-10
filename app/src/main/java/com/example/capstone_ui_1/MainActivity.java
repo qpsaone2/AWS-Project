@@ -1,5 +1,6 @@
 package com.example.capstone_ui_1;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 
@@ -39,6 +40,16 @@ public class MainActivity extends AppCompatActivity {
                 switch (item.getItemId()) {
                     case R.id.bottom_navi_navigation: {
                         getSupportFragmentManager().beginTransaction().replace(R.id.main_frameLayout, navigationFragment).commitAllowingStateLoss();
+                        break;
+                    }
+                    case R.id.bottom_navi_qr: {
+                        Intent Select = new Intent(MainActivity.this, CameraActivity.class);
+                        startActivity(Select);
+                        break;
+                    }
+                    case R.id.bottom_navi_weather: {
+                        Intent Select = new Intent(MainActivity.this, com.example.capstone_ui_1.ui.main.MainActivity.class);
+                        startActivity(Select);
                         break;
                     }
 

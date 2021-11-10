@@ -24,7 +24,7 @@
         android:background="@color/white"
         app:elevation="0dp"
         app:itemBackground="@color/white"
-        app:itemIconSize="40dp"
+        app:itemIconSize="30dp"
         app:itemIconTint="@color/bottomnavigation_select"
         app:itemTextColor="@color/bottomnavigation_select"
         app:labelVisibilityMode="unlabeled"
