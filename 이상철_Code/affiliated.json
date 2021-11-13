@@ -1,0 +1,1874 @@
+﻿
+        "Affiliated":[
+         {
+            "sort": "계교",
+            "class_Number": "201061-001",
+            "class_Name": "소통과협력",
+            "credit_time": "3/  3",
+            "grade": "미래형자동차학과(1)",
+            "prof": "최수정(미래형자동차학과)",
+            "class_schedule": "생과104[목5-6],[금2](8)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "201061-002",
+            "class_Name": "소통과협력",
+            "credit_time": "3/  3",
+            "grade": "소프트웨어융합학과(",
+            "prof": "천범익(소프트웨어융합학과)",
+            "class_schedule": "생과102[목5-6],생과104[금]"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300028-001",
+            "class_Name": "문학개론",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "정혜경(문학인문교양학부)",
+            "class_schedule": "2인209[목5-6],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300264-001",
+            "class_Name": "경영학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "정선미(경영학)",
+            "class_schedule": "국제405[목5-6],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300264-002",
+            "class_Name": "경영학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "정선미(경영학)",
+            "class_schedule": "국제405[목7-8],[금2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300264-003",
+            "class_Name": "경영학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "박영태(무역학)",
+            "class_schedule": "국제403[월1],[수7-8](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300264-004",
+            "class_Name": "경영학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "정연주(유통물류학)",
+            "class_schedule": "국제504[목5],[금1-2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300264-005",
+            "class_Name": "경영학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김종원(경영정보학)",
+            "class_schedule": "국제402[목5-6],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300264-006",
+            "class_Name": "경영학입문",
+            "credit_time": "3/  3",
+            "grade": "부동산금융·자산경영",
+            "prof": "윤지석(부동산금융·자산경영",
+            "class_schedule": "국제504[토6-8](51)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300265-001",
+            "class_Name": "교육학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "정주영(교직학부)",
+            "class_schedule": "2인210[목7-8],[금2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300265-002",
+            "class_Name": "교육학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "천정미(교직학부)",
+            "class_schedule": "1인302[목7-8],[금2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300266-001",
+            "class_Name": "매스커뮤니케이션의이해",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "이준호(신문방송학)",
+            "class_schedule": "1인302[목5-6],[금1](40)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300266-002",
+            "class_Name": "매스커뮤니케이션의이해",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "신태섭(광고홍보학)",
+            "class_schedule": "1인314[목5-6],[금1](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300269-001",
+            "class_Name": "사회학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "조영훈(사회복지학)",
+            "class_schedule": "법정302[목7-8],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300269-002",
+            "class_Name": "사회학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김상원(경찰행정학)",
+            "class_schedule": "법정307[목5-6],[금2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300270-001",
+            "class_Name": "스포츠과학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "곽이섭(체육학과)",
+            "class_schedule": "상경214[목5-6],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300270-002",
+            "class_Name": "스포츠과학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "박찬호(레저스포츠학)",
+            "class_schedule": "상경612[목5-6],[금2](47)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300271-001",
+            "class_Name": "심리학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "고미나(철학인문교양학부)",
+            "class_schedule": "1인504[목6-7],[금2](40)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300271-002",
+            "class_Name": "심리학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김보성(철학인문교양학부)",
+            "class_schedule": "2인213[목6-7],[금2](22)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300272-001",
+            "class_Name": "역사학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "성강현(역사인문교양학부)",
+            "class_schedule": "1인611[목6-7],[금2](47)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300278-001",
+            "class_Name": "철학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "박진(철학인문교양학부)",
+            "class_schedule": "1인501[목6-7],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300280-001",
+            "class_Name": "통계적사고",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "배정자(기초과학교양학부)",
+            "class_schedule": "창의618[목7-8],[금2](22)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300280-002",
+            "class_Name": "통계적사고",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "한기조(무역학)",
+            "class_schedule": "상경312[목6-7],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "400232-001",
+            "class_Name": "법학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "정진옥(법학)",
+            "class_schedule": "법정405[목6-7],[금2](47)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "400232-002",
+            "class_Name": "법학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "최성진(법학)",
+            "class_schedule": "법정402[목6-7],[금2](47)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "400919-001",
+            "class_Name": "정치학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김도경(행정정책학)",
+            "class_schedule": "법정407[목6-7],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "902089-001",
+            "class_Name": "경제학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "강준규(경제학)",
+            "class_schedule": "상경613[목5-6],[금2](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "902089-002",
+            "class_Name": "경제학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김동운(경제학)",
+            "class_schedule": "상경415[목5-6],[금2](22)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "902089-003",
+            "class_Name": "경제학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "이범웅(재무부동산학)",
+            "class_schedule": "상경511[목5-6],[금2](41)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "902089-004",
+            "class_Name": "경제학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "박영배(금융보험학)",
+            "class_schedule": "상경514[목5-6],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300129-001",
+            "class_Name": "기초수학",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "류재칠(기초과학교양학부)",
+            "class_schedule": "정보615[목5-6],[금1](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-001",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "화학환경공학부(1)",
+            "prof": "강미광(기초과학교양학부)",
+            "class_schedule": "공과419[목5-6],[금1](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-002",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "화학환경공학부(1)",
+            "prof": "강미광(기초과학교양학부)",
+            "class_schedule": "공과419[목7-8],[금2](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-003",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "화학환경공학부(1)",
+            "prof": "강미광(기초과학교양학부)",
+            "class_schedule": "공과419[월1],[수7-8](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-004",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "화학환경공학부(1)",
+            "prof": "김양곡(기초과학교양학부)",
+            "class_schedule": "정보511[목5-6],[금1](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-005",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "전기전자통신공학부(",
+            "prof": "김양곡(기초과학교양학부)",
+            "class_schedule": "정보511[목7-8],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-006",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "전기전자통신공학부(",
+            "prof": "김양곡(기초과학교양학부)",
+            "class_schedule": "정보511[수7-8],[목1](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-007",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "전기전자통신공학부(",
+            "prof": "류재칠(기초과학교양학부)",
+            "class_schedule": "정보615[목7-8],[금2](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-008",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "전기전자통신공학부(",
+            "prof": "류재칠(기초과학교양학부)",
+            "class_schedule": "정보615[수7-8],[목1](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-009",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김수환(기초과학교양학부)",
+            "class_schedule": "산학415[목5-6],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300267-010",
+            "class_Name": "미적분학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김수환(기초과학교양학부)",
+            "class_schedule": "공과734[목7-8],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300273-001",
+            "class_Name": "운동물리학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "이석민(토목공학)",
+            "class_schedule": "공과127[목5-6],[금2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300273-002",
+            "class_Name": "운동물리학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "신형철(조선해양공학과)",
+            "class_schedule": "공과229[목5-6],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300274-001",
+            "class_Name": "일반물리학입문",
+            "credit_time": "3/  4",
+            "grade": "창의소프트웨어공학부",
+            "prof": "진병문(기초과학교양학부)",
+            "class_schedule": "창의524[목5-6],  산학801[목"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300274-002",
+            "class_Name": "일반물리학입문",
+            "credit_time": "3/  4",
+            "grade": "창의소프트웨어공학부",
+            "prof": "진병문(기초과학교양학부)",
+            "class_schedule": "창의524[목5-6],  산학801[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300274-003",
+            "class_Name": "일반물리학입문",
+            "credit_time": "3/  4",
+            "grade": "창의소프트웨어공학부",
+            "prof": "유일(기초과학교양학부)",
+            "class_schedule": "산학801[목5-6],  창의627[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300274-004",
+            "class_Name": "일반물리학입문",
+            "credit_time": "3/  4",
+            "grade": "창의소프트웨어공학부",
+            "prof": "유일(기초과학교양학부)",
+            "class_schedule": "창의627[금1-2],  산학801[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300274-005",
+            "class_Name": "일반물리학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "이수연(기초과학교양학부)",
+            "class_schedule": "공과513[목5-6],[금1](26)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300274-006",
+            "class_Name": "일반물리학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "이수연(기초과학교양학부)",
+            "class_schedule": "공과513[목7-8],[금2](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300275-001",
+            "class_Name": "일반생명과학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김연희(의생명공학)",
+            "class_schedule": "창의725[목6-7],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300276-001",
+            "class_Name": "일반화학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "오영희(응용화학)",
+            "class_schedule": "창의317[목7-8],[금2](33)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300276-002",
+            "class_Name": "일반화학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "강동현(응용화학)",
+            "class_schedule": "창의317[목5-6],[금1](33)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300279-001",
+            "class_Name": "컴퓨터활용입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "이유태(정보통신공학)",
+            "class_schedule": "정보710[목5-6],[금1](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300281-001",
+            "class_Name": "프로그래밍언어입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "장희숙(컴퓨터소프트웨어공학",
+            "class_schedule": "정보915[목7-8],[금1](29)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300283-001",
+            "class_Name": "온라인협업",
+            "credit_time": "3/  4",
+            "grade": "스마트호스피탈리티학",
+            "prof": "금창열(미래형자동차학과)",
+            "class_schedule": "생과103[화2-3],[수2-3](15)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-001",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "기계자동차로봇부품공",
+            "prof": "손인수(기계공학)",
+            "class_schedule": "건윤201[목5-6],  정보411[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-002",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "기계자동차로봇부품공",
+            "prof": "손인수(기계공학)",
+            "class_schedule": "건윤201[목7-8],  정보411[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-003",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "기계자동차로봇부품공",
+            "prof": "예상돈(기계공학)",
+            "class_schedule": "공과104[목5-6],  공과119[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-004",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "기계자동차로봇부품공",
+            "prof": "예상돈(기계공학)",
+            "class_schedule": "공과104[목7-8],  공과119[금"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-005",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "기계자동차로봇부품공",
+            "prof": "배효준(기계공학)",
+            "class_schedule": "공과305-A[목5-6],  공과218["
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-006",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "기계자동차로봇부품공",
+            "prof": "배효준(기계공학)",
+            "class_schedule": "공과305-A[목7-8],  공과218["
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-007",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "신소재공학부(1)",
+            "prof": "조일국(금속소재공학)",
+            "class_schedule": "공과306-A[목5-6],  공과527["
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-008",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "신소재공학부(1)",
+            "prof": "조일국(금속소재공학)",
+            "class_schedule": "공과306-A[목7-8],  공과527["
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-009",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "신소재공학부(1)",
+            "prof": "박병철(자동차공학)",
+            "class_schedule": "건윤102[목5-8](40)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-010",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "신소재공학부(1)",
+            "prof": "윤태준(게임공학)",
+            "class_schedule": "정보205[목5-8](48)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-011",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "디자인공학부(1)",
+            "prof": "김미선(디자인조형학과)",
+            "class_schedule": "지천관620[목5-6],  지천관51"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-012",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "디자인공학부(1)",
+            "prof": "노광현(제품디자인공학)",
+            "class_schedule": "지천관620[목7-8],  정보109["
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-013",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "산업융합시스템공학부",
+            "prof": "김화선(산업ICT기술공학)",
+            "class_schedule": "지천관622[목5-6],  지천관62"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "504694-014",
+            "class_Name": "CAD/CAM",
+            "credit_time": "3/  4",
+            "grade": "산업융합시스템공학부",
+            "prof": "김화선(산업ICT기술공학)",
+            "class_schedule": "지천관622[목7-8],  지천관62"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "509234-001",
+            "class_Name": "확률및통계입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "강창완(산업경영·빅데이터공",
+            "class_schedule": "공과413[목5-6],[금2](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300268-001",
+            "class_Name": "미학입문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "윤자정(디자인조형학과)",
+            "class_schedule": "생과217[목6-7],[금2](47)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "300282-001",
+            "class_Name": "Media  Information  Literacy",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "문종대(신문방송학)",
+            "class_schedule": "1인302[월1],[수7-8](44)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "400140-001",
+            "class_Name": "기초중국어",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "김미령(중국어학과)",
+            "class_schedule": "2인409[목5-6],[금2](47)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "400190-001",
+            "class_Name": "기초한문",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "최중호(문학인문교양학부)",
+            "class_schedule": "법정408[목7-8],[금2](36)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "900353-001",
+            "class_Name": "기초일본어",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "다께이찌(외국어교양학부)",
+            "class_schedule": "1인610[목5-6],[금1](40)"
+        },
+        {
+            "sort": "계교",
+            "class_Number": "900353-002",
+            "class_Name": "기초일본어",
+            "credit_time": "3/  3",
+            "grade": "전체(1)",
+            "prof": "다께이찌(외국어교양학부)",
+            "class_schedule": "1인610[목7-8],[금2](40)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200091-001",
+            "class_Name": "문학과인생",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김도희(문학인문교양학부)",
+            "class_schedule": "1인415[화6-7](27)"
+        },
+        {
+            "sort": "sort",
+            "class_Number": "class_Number",
+            "class_Name": "class_Name",
+            "credit_time": "credit_time",
+            "grade": "grade",
+            "prof": "김보성(철학인문교양학부)",
+            "class_schedule": "2인210[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200655-001",
+            "class_Name": "한국문화와역사",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김인호(역사인문교양학부)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200696-001",
+            "class_Name": "라이프스타일과색채",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "윤혜경(기초과학교양학부)",
+            "class_schedule": "정보411[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200776-001",
+            "class_Name": "현대사회와철학상담",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박진(철학인문교양학부)",
+            "class_schedule": "1인504[화6-7](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200805-001",
+            "class_Name": "뮤지컬과음악의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "최훈녀(음악학과)",
+            "class_schedule": "예체204[수7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200829-001",
+            "class_Name": "감성심리학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김보성(철학인문교양학부)",
+            "class_schedule": "1인611[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200835-001",
+            "class_Name": "글로벌영어와문화의사회언어학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "송경숙(영어영문학과)",
+            "class_schedule": "2인311[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200838-001",
+            "class_Name": "대중음악의역사와문화",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "손명균(융복합교양학부)",
+            "class_schedule": "공과229[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200839-001",
+            "class_Name": "동서양문명사",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박순준(역사인문교양학부)",
+            "class_schedule": "2인507[월7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200841-001",
+            "class_Name": "멘토인문학강의",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "안장혁(문학인문교양학부)",
+            "class_schedule": "1인501[화6-7](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200846-001",
+            "class_Name": "현대중국인의철학과삶",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김영찬(중국어학과)",
+            "class_schedule": "2인206[목6-7](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200850-001",
+            "class_Name": "부산지역근현대사의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "안환(역사인문교양학부)",
+            "class_schedule": "1인610[월7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200855-001",
+            "class_Name": "서양문명과음악",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "손명균(융복합교양학부)",
+            "class_schedule": "공과416[수7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200856-001",
+            "class_Name": "성과사랑의인문학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이은정(철학인문교양학부)",
+            "class_schedule": "상경411[월7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200863-001",
+            "class_Name": "스포츠로소통하기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박철홍(체육학과)",
+            "class_schedule": "상경213[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200865-001",
+            "class_Name": "시와마음읽기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "윤지영(국어국문학과)",
+            "class_schedule": "2인207[수7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200866-001",
+            "class_Name": "신화와종교",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "임창건(영어영문학과)",
+            "class_schedule": "2인311[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200867-001",
+            "class_Name": "아름다움의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김용하(문학인문교양학부)",
+            "class_schedule": "공과113[수7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200873-001",
+            "class_Name": "융합창의력개발과디자인적사고",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "양근숙(융복합교양학부)",
+            "class_schedule": "국제402[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200874-001",
+            "class_Name": "이미지동아시아사",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김형열(중국어학과)",
+            "class_schedule": "2인409[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200876-001",
+            "class_Name": "이야기와인간과나",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "심지원(융복합교양학부)",
+            "class_schedule": "1인610[화6-7](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200879-001",
+            "class_Name": "일본문화의이해와한국문화",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "다께이찌(외국어교양학부)",
+            "class_schedule": "2인602[금3-4](30)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200882-001",
+            "class_Name": "재미있는중국한시이야기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김인호(중국어학과)",
+            "class_schedule": "2인409[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200894-001",
+            "class_Name": "표현자유의역사",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "문종대(신문방송학)",
+            "class_schedule": "1인302[월7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200900-001",
+            "class_Name": "현대미술산책",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "윤자정(디자인조형학과)",
+            "class_schedule": "생과217[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201004-001",
+            "class_Name": "동의글로벌인성",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "심지원(융복합교양학부)",
+            "class_schedule": "2인509[수7-8](18)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201007-001",
+            "class_Name": "산업과색채의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "윤혜경(기초과학교양학부)",
+            "class_schedule": "정보410[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201010-001",
+            "class_Name": "스포츠블루오션전략을통한스포",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이재빈(레저스포츠학)",
+            "class_schedule": "상경315[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201012-001",
+            "class_Name": "마음의이해와철학적치유",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "정혜경(문학인문교양학부)",
+            "class_schedule": "1인314[화6-7](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201014-001",
+            "class_Name": "웰니스면역과운동",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "곽이섭(체육학과)",
+            "class_schedule": "상경612[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201016-001",
+            "class_Name": "현대사회와명상",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "강경구(중국어학과)",
+            "class_schedule": "2인509[화6-7](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201035-001",
+            "class_Name": "콜라보합창",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "손명균(융복합교양학부)",
+            "class_schedule": "창의120[화6-7](41)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201036-001",
+            "class_Name": "태권도와문화",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "원형진(태권도학)",
+            "class_schedule": "상경313[화6-7](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201037-001",
+            "class_Name": "행복에이르는지혜",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "천정미(교직학부)",
+            "class_schedule": "상경513[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "400623-001",
+            "class_Name": "발달심리학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김보성(철학인문교양학부)",
+            "class_schedule": "2인213[수7-8](12)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "800069-001",
+            "class_Name": "스포츠와건강",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박찬호(레저스포츠학)",
+            "class_schedule": "상경215[화6-7](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200661-001",
+            "class_Name": "글로벌시장과소비자",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "강혜경(보육·가정상담학과)",
+            "class_schedule": "생과505[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200676-001",
+            "class_Name": "미래경영의길잡이",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박기남(e비즈니스학)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200762-001",
+            "class_Name": "사이버범죄의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "최종술(경찰행정학)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200784-001",
+            "class_Name": "기업과회계정보",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이경구(회계학)",
+            "class_schedule": "국제407[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200823-001",
+            "class_Name": "21세기글로벌경제",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김태완(경제학)",
+            "class_schedule": "상경413[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200834-001",
+            "class_Name": "글로벌시대의경영학산책",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "권혁기(경영학)",
+            "class_schedule": "국제405[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200840-001",
+            "class_Name": "매스미디어와디지털사회",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이준호(신문방송학)",
+            "class_schedule": "1인314[월7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200849-001",
+            "class_Name": "복지사회와사회적경제",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김옥희(사회복지학)",
+            "class_schedule": "법정304[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200851-001",
+            "class_Name": "비합리적소비의심리",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김상조(경영학)",
+            "class_schedule": "국제405[화6-7](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200858-001",
+            "class_Name": "SNS의이해와마케팅활용",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "홍한국(경영정보학)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200872-001",
+            "class_Name": "유통물류의기초",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "조상리(유통물류학)",
+            "class_schedule": "국제504[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200878-001",
+            "class_Name": "인터넷과법률",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "정하윤(법학)",
+            "class_schedule": "법정510[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200883-001",
+            "class_Name": "21C신사회문제와웰빙",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이미라(사회복지학)",
+            "class_schedule": "법정302[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200886-001",
+            "class_Name": "지식재산권개론",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "장종욱(컴퓨터공학과)",
+            "class_schedule": "정보812[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200887-001",
+            "class_Name": "창업가정신과비즈니스모델",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김삼문(응용소프트웨어공학)",
+            "class_schedule": "산학415[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200890-001",
+            "class_Name": "창조관광·MICE의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "노창현(호텔·컨벤션경영학)",
+            "class_schedule": "국제901[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200902-001",
+            "class_Name": "현대자본주의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박태진(재무부동산학)",
+            "class_schedule": "상경512[월7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201000-001",
+            "class_Name": "현대스포츠사회현상읽기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김찬룡(레저스포츠학)",
+            "class_schedule": "상경613[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201001-001",
+            "class_Name": "성공적인미래설계",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이은정(철학인문교양학부)",
+            "class_schedule": "창의620[화6-7](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201008-001",
+            "class_Name": "스마트한생활과경제",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김태완(경제학)",
+            "class_schedule": "상경413[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201009-001",
+            "class_Name": "스마트경영과e비즈니스",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이재승(무역학)",
+            "class_schedule": "국제506[목7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201025-001",
+            "class_Name": "4차산업혁명시대의신직업",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김동운(경제학)",
+            "class_schedule": "상경415[수7-8](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201027-001",
+            "class_Name": "노동을위한법률",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "정하윤(법학)",
+            "class_schedule": "법정510[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201028-001",
+            "class_Name": "다양성과사회",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "서보순(유아교육과)",
+            "class_schedule": "1인208[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201030-001",
+            "class_Name": "수학을통해본사이버세상과범죄",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "배정자(기초과학교양학부)",
+            "class_schedule": "창의628[금3-4](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201033-001",
+            "class_Name": "웰빙식생활관리",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "황지영(식품공학)",
+            "class_schedule": "창의620[월7-8](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201034-001",
+            "class_Name": "재미있는스토리텔링의법칙",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "공지흔(스토리텔링학과)",
+            "class_schedule": "창의628[수7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201062-001",
+            "class_Name": "인권을통해보는전문직윤리",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박지영(사회복지학)",
+            "class_schedule": "법정510[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201063-001",
+            "class_Name": "모두를위한인권이야기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "손유진(유아교육과)",
+            "class_schedule": "생과505[월7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "300256-001",
+            "class_Name": "기후금융보험의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박광수(금융보험학)",
+            "class_schedule": "상경513[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "400198-001",
+            "class_Name": "매스컴과사회",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김천수(신문방송학)",
+            "class_schedule": "1인314[수7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "400205-001",
+            "class_Name": "무역학원론",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "한기조(무역학)",
+            "class_schedule": "상경312[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "502673-001",
+            "class_Name": "외식산업론",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박기용(외식산업경영학과)",
+            "class_schedule": "국제907[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "502973-001",
+            "class_Name": "인터넷마케팅",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이문봉(경영학)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "504478-001",
+            "class_Name": "현대사회와정치",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "신미라(철학인문교양학부)",
+            "class_schedule": "2인208[월7-8](18)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200142-001",
+            "class_Name": "생활속의수리",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "강미광(기초과학교양학부)",
+            "class_schedule": "생과504[월7-8](17)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200669-001",
+            "class_Name": "생활속의물리학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이수연(기초과학교양학부)",
+            "class_schedule": "창의619[금3-4](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200672-001",
+            "class_Name": "생활의학의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이정원(의료경영학과)",
+            "class_schedule": "생과507[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200739-001",
+            "class_Name": "한의학과생활건강",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김경철(한의학과)",
+            "class_schedule": "창의725[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200753-001",
+            "class_Name": "사회생물학적인간탐구",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "허만규(식품공학)",
+            "class_schedule": "창의518[수7-8](17)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200786-001",
+            "class_Name": "수학산책",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김양곡(기초과학교양학부)",
+            "class_schedule": "창의725[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200831-001",
+            "class_Name": "경영경제속기초수학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "배정자(기초과학교양학부)",
+            "class_schedule": "국제405[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200832-001",
+            "class_Name": "과학과인문학의만남",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "허창순(응용화학)",
+            "class_schedule": "공과218[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200836-001",
+            "class_Name": "금융보험수학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "배정자(기초과학교양학부)",
+            "class_schedule": "상경612[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200842-001",
+            "class_Name": "문명의이기와과학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "유일(기초과학교양학부)",
+            "class_schedule": "창의524[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200853-001",
+            "class_Name": "생명의시작과진화그리고인류",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이정원(의료경영학과)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200860-001",
+            "class_Name": "수학의위대한순간들",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "류재칠(기초과학교양학부)",
+            "class_schedule": "창의619[화6-7](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200861-001",
+            "class_Name": "수학콘서트",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "배정자(기초과학교양학부)",
+            "class_schedule": "공과215[수7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200864-001",
+            "class_Name": "스포츠와과학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이수연(기초과학교양학부)",
+            "class_schedule": "창의725[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200877-001",
+            "class_Name": "인간과피복환경",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "윤혜경(기초과학교양학부)",
+            "class_schedule": "정보411[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200881-001",
+            "class_Name": "재미있는나노과학입문",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "유일(기초과학교양학부)",
+            "class_schedule": "창의524[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200898-001",
+            "class_Name": "한국의생물과식품",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "허만규(식품공학)",
+            "class_schedule": "창의518[월7-8](18)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200903-001",
+            "class_Name": "환경과방사능",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이수연(기초과학교양학부)",
+            "class_schedule": "공과421[수7-8](21)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201002-001",
+            "class_Name": "생활속의통계이해",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김수환(기초과학교양학부)",
+            "class_schedule": "공과413[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201011-001",
+            "class_Name": "한의학을통한내몸알아보기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "박신형(한의학과)",
+            "class_schedule": "생과217[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201018-001",
+            "class_Name": "사회속의수리이야기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김수환(기초과학교양학부)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201021-001",
+            "class_Name": "범죄현장에서과학의발견",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이수연(기초과학교양학부)",
+            "class_schedule": "창의719[월7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200106-001",
+            "class_Name": "발명특허의세계",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "최정윤(디자인조형학과)",
+            "class_schedule": "생과501[월7-8](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200248-001",
+            "class_Name": "정보통신과미래사회",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이유종(정보통신공학)",
+            "class_schedule": "정보710[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200800-001",
+            "class_Name": "영화속의생명공학",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "진수정(생체조직재생핵심연구",
+            "class_schedule": "창의627[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200825-001",
+            "class_Name": "ICT기반의창조경제",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "권오준(컴퓨터소프트웨어공학",
+            "class_schedule": "정보912[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200827-001",
+            "class_Name": "IT세상의미래사회",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "장경식(응용소프트웨어공학)",
+            "class_schedule": "공과229[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200828-001",
+            "class_Name": "Python을이용한프로그래밍기초",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "우영운(응용소프트웨어공학)",
+            "class_schedule": "산학618[월7-8](17)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200844-001",
+            "class_Name": "문화기술과디지털콘텐츠",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이정훈(디지털콘텐츠학)",
+            "class_schedule": "산학717[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200847-001",
+            "class_Name": "미래의유비쿼터스컴퓨팅",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "장희숙(컴퓨터소프트웨어공학",
+            "class_schedule": "정보915[월7-8](18)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200857-001",
+            "class_Name": "세계의트렌드와미래문화",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김치용(게임공학)",
+            "class_schedule": "산학522[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200859-001",
+            "class_Name": "소프트웨어의역할과컴퓨팅적사",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김근형(게임공학)",
+            "class_schedule": "산학622[월7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200868-001",
+            "class_Name": "알기쉬운영상정보장치",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "유일(기초과학교양학부)",
+            "class_schedule": "창의524[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200870-001",
+            "class_Name": "웹세계에대한기반체계",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이창열(컴퓨터공학과)",
+            "class_schedule": "원격사이버강좌  (별도제한)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200880-001",
+            "class_Name": "재난과건설기술",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "문두열(토목공학)",
+            "class_schedule": "공과127[수7-8](32)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200888-001",
+            "class_Name": "컴퓨터적사고키우기",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "장성진(컴퓨터공학과)",
+            "class_schedule": "정보206[월7-8](20)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200896-001",
+            "class_Name": "학교안전지도사개론",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "진병문(기초과학교양학부)",
+            "class_schedule": "창의627[월7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201024-001",
+            "class_Name": "3D입체음향",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "이강승(컴퓨터공학과)",
+            "class_schedule": "정보811[화6-7](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201026-001",
+            "class_Name": "AI와미래사회",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김진일(컴퓨터공학과)",
+            "class_schedule": "정보811[수7-8](27)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201029-001",
+            "class_Name": "발명특허와관리",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "정진옥(법학)",
+            "class_schedule": "법정306[수7-8](18)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201064-001",
+            "class_Name": "지속가능한포스트AI의힘",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "윤혜경(기초과학교양학부)",
+            "class_schedule": "정보322[목7-8](23)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "401476-001",
+            "class_Name": "디지털게임창작",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "서진석(게임공학)",
+            "class_schedule": "산학618[수7-8](22)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200482-001",
+            "class_Name": "전쟁사",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김영승(융복합교양학부)",
+            "class_schedule": "정보210[수7-8](27)"
+        },
+        {
+            "sort": "sort",
+            "class_Number": "class_Number",
+            "class_Name": "class_Name",
+            "credit_time": "credit_time",
+            "grade": "grade",
+            "prof": "김영승(융복합교양학부)",
+            "class_schedule": "정보210[화6-7](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200509-001",
+            "class_Name": "무기체계론",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김영승(융복합교양학부)",
+            "class_schedule": "정보210[월7-8](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201022-001",
+            "class_Name": "리더십",
+            "credit_time": "2/  2",
+            "grade": "전체(1)",
+            "prof": "김영승(융복합교양학부)",
+            "class_schedule": "정보210[수5-6](26)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "200816-001",
+            "class_Name": "외국인을위한학습법세미나Ⅱ",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "이혜진(외국어교양학부)",
+            "class_schedule": "상경411[수7-8](23)"
+        },
+        {
+            "sort": "sort",
+            "class_Number": "class_Number",
+            "class_Name": "class_Name",
+            "credit_time": "credit_time",
+            "grade": "grade",
+            "prof": "이영학(교직학부)",
+            "class_schedule": "지천관304[화6-7](12)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201056-001",
+            "class_Name": "스피치트레이닝",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "신윤주(문학인문교양학부)",
+            "class_schedule": "정보110[화6-7](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201057-001",
+            "class_Name": "콜라보체험활동",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "천정미(교직학부)",
+            "class_schedule": "2인508[월7-8](12)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201057-002",
+            "class_Name": "콜라보체험활동",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "이미화(교육공학및SW교육전공",
+            "class_schedule": "산학314[월7-8](9)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201057-003",
+            "class_Name": "콜라보체험활동",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "양근숙(융복합교양학부)",
+            "class_schedule": "지천관304[월7-8](12)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201057-004",
+            "class_Name": "콜라보체험활동",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "천정미(교직학부)",
+            "class_schedule": "2인508[수7-8](12)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201057-005",
+            "class_Name": "콜라보체험활동",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "정주영(교직학부)",
+            "class_schedule": "정보322[화6-7](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201058-001",
+            "class_Name": "마을르네상스",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "최연주(문헌정보학과)",
+            "class_schedule": "1인612[화6-7](12)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201059-001",
+            "class_Name": "영상콘텐츠의이해와제작",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "박성대(디지털콘텐츠학)",
+            "class_schedule": "산학718[월7-8](9)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201065-001",
+            "class_Name": "디자인씽킹의이해와적용",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "강주리(교수학습개발센터)",
+            "class_schedule": "산학314[목6-7](9)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "201066-001",
+            "class_Name": "미디어사진학",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "이준상(제품디자인공학)",
+            "class_schedule": "지천관515[월7-8](14)"
+        },
+        {
+            "sort": "균교",
+            "class_Number": "800093-001",
+            "class_Name": "팀학습의이해",
+            "credit_time": "2/  2",
+            "grade": "전체(2)",
+            "prof": "강주리(교수학습개발센터)",
+            "class_schedule": "산학314[화6-7](9)"
+        },
+        {
+            "sort": "공소\r\n공소",
+            "class_Number": "200770-001\r\n700106-001",
+            "class_Name": "기술과경영\r\n직업과윤리",
+            "credit_time": "2/  2\r\n2/  2",
+            "grade": "전체(2)\r\n전체(2)",
+            "prof": "유종훈(산업경영·빅데이터공\r\n고미나(철학인문교양학부)",
+            "class_schedule": "공과516[월7-8](60)\r\n공과215[월7-8](50)"
+        }]
