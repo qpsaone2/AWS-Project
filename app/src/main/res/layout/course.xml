@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_gravity = "center"
+        android:gravity="center"
+        android:text="추가"
+        android:background="@color/bottomview_select"
+        android:textColor="#ffff"
+        android:textSize="18dp"
+        android:id="@+id/search_addButton"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/bottomview_select">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="강의제목"
+                android:id="@+id/className_txtView"
+                android:layout_gravity="center"
+                android:padding="3dp"
+                android:textColor="#ffff"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#ffff">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="교수님 이름"
+                android:id="@+id/prof_txtView"
+                android:layout_gravity="center"
+                android:padding="3dp"
+                android:textStyle="bold"
+                android:textColor="@color/design_default_color_primary_dark"/>
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="3학점"-->
+<!--                android:id="@+id/courseCredit"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:padding="3dp"-->
+<!--                android:textColor="@color/design_default_color_primary_dark"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="1분반"-->
+<!--                android:id="@+id/courseDivide"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:padding="3dp"-->
+<!--                android:textColor="@color/design_default_color_primary_dark"/>-->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#ffff">
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="강의 제한 인원"-->
+<!--                android:id="@+id/coursePersonnel"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:padding="3dp"-->
+<!--                android:textColor="#f92a3f"/>-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="강의 시간대"
+                android:id="@+id/classSchedule_txtView"
+                android:layout_gravity="center"
+                android:padding="3dp"
+                android:textColor="@color/bottomview_select"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

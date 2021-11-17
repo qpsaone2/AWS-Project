@@ -1,21 +1,5 @@
 <resources>
-    <string name="app_name">Assist Route</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoiYXNqNzEwOSIsImEiOiJja3ZuOGN1dncxbjlnMm50a2MwZjRrZGF5In0.CukJutl3xYGT_UiSoyV_mQ</string>
-    <string name="btnDEU">동의대 지도</string>
-    <string name="btnMyLoc">내 위치</string>
-    <string name="btnStartNavigation">길 안내 시작</string>
-    <string name="user_location_permission_explanation">위치권한설정 필요</string>
-    <string name="user_location_permission_not_granted">위치권한실패</string>
-    <string name="btnStartAR">Assist Route</string>
-    <string name="btnArea">학교 구역</string>
-    <string name="game_view_content_description">Game view</string>
-    <string-array name="days">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-    </string-array>
+    <string name="app_name">Assist Routes</string>
 
     <string-array name="header_title">
         <item></item>
@@ -25,8 +9,14 @@
         <item>Thu</item>
         <item>Fri</item>
     </string-array>
-    <string name="channel_description">AWS push notification</string>
-    <string name="channel_name">AWS</string>
+
+    <string-array name="days">
+        <item >Mon</item>
+        <item >Tue</item>
+        <item >Wed</item>
+        <item >Thu</item>
+        <item >Fri</item>
+    </string-array>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -38,6 +28,10 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    //tmap
+    <string name="tmap_api_key">l7xxee5110de109149db86b0e5ee6fe8ed77</string>
+    <string name="plane_finding">Searching for surfaces&#8230;</string>
 
     <!-- WearWeather String -->
     <string name="today_weather">날씨</string>

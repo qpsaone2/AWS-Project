@@ -3,55 +3,76 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38229166666666664" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/drawable/ic_capstone_logo_background.xml" value="0.22083333333333333" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/layout/activity_main.xml" value="0.2341485507246377" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/layout/activity_splash.xml" value="0.2046875" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/layout/activity_temperature_clothing2.xml" value="0.17806484295845998" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/layout/camera_main.xml" value="0.22" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/layout/navigation_fragment.xml" value="0.2341485507246377" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/layout/weather_activity_main.xml" value="0.36614583333333334" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/menu/menu.xml" value="0.36614583333333334" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22083333333333333" />
-        <entry key="..\:/Final Project/AWS-Project-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22083333333333333" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/drawable/border.xml" value="0.20989583333333334" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/drawable/bottomnavigation_select.xml" value="0.21354166666666666" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21354166666666666" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/font/font.xml" value="0.20833333333333334" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_class.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_edit.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_find_class.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_main.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_modify.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_popup.xml" value="0.33" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_selecting.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_setting.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/activity_unity_player.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/edit_appbar.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/home_fragment.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/junkong_listview.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/lecture_item_list.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/navigation_fragment.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/rv_item_list.xml" value="0.5" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/tensor_fragment.xml" value="0.25" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/time_box.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/timepicker1.xml" value="0.33" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/timepicker2.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/timepicker3.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/timepicker4.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/toast.xml" value="0.33" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/toolbar_inside.xml" value="0.33" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/toolbar_inside_set.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/layout/toolbar_inside_set_modi.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/menu/menu.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/menu/time_menu.xml" value="0.19375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/mipmap-anydpi-v26/ic_capstone_logo_round.xml" value="0.1984375" />
-        <entry key="..\:/unity/Capstone-Project-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1984375" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/font/font.xml" value="0.3963541666666667" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_clothes_click_web_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_edit.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_home.xml" value="0.16927083333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_lecture_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_popup.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_settings.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_splash.xml" value="0.16927083333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing4.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing6.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing7.xml" value="0.36614583333333334" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/activity_temperature_clothing8.xml" value="0.3496376811594203" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/camera_main.xml" value="0.2046875" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/course.xml" value="0.2046875" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/navigation_main.xml" value="0.1" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/row_news.xml" value="0.1" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/time_box.xml" value="0.2046875" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/layout/weather_main.xml" value="0.1" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/menu/drawer_menu_item.xml" value="0.1" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/menu/menu.xml" value="0.2046875" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/menu/search_menu.xml" value="0.2046875" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/mipmap-anydpi-v26/ic_launcher_ar.xml" value="0.18541666666666667" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/mipmap-anydpi-v26/ic_launcher_ar_round.xml" value="0.18541666666666667" />
+        <entry key="..\:/Final Project/MainActivity (5)/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.38229166666666664" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2838541666666667" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/cell_shape.xml" value="0.1" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_baseline_https_24.xml" value="0.19907407407407407" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.19907407407407407" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.403125" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_baseline_textsms_24.xml" value="0.11296296296296296" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19907407407407407" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_course.xml" value="0.1" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_edit.xml" value="0.22" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_lecture_list.xml" value="0.18" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_popup.xml" value="0.16" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_schedule.xml" value="0.25" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/course.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/edit_appbar.xml" value="0.2" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_course.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_main_weather.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_schedule.xml" value="0.23333333333333334" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_statistics.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/home_fragment.xml" value="0.2203125" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/lecture_list_item.xml" value="0.22" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/notice.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/time_box.xml" value="0.1" />
+        <entry key="..\:/MainActivity/app/src/main/res/menu/menu.xml" value="0.23255813953488372" />
+        <entry key="..\:/MainActivity/app/src/main/res/menu/search_menu.xml" value="0.14" />
+        <entry key="..\:/MainActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.32685185185185184" />
+        <entry key="..\:/MainActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.32685185185185184" />
+        <entry key="..\:/MainActivity/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/MainActivity/timetable/src/main/res/layout/table_header.xml" value="0.26875" />
+        <entry key="..\:/MainActivity/timetable/src/main/res/layout/view_timetable.xml" value="0.26875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

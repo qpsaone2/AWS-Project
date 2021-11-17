@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
-    <color name="bottomview_select">#6B69D6</color>
-    <color name="bottomview_unselect">#d6d6d6</color>
-    <color name="white">#FFFFFF</color>
-    <color name="idpw_gray">#a0a0a0</color>
-    <color name="border_gray">#ECECEC</color>
-    <color name="dark_gray">#6c6c6c</color>
-    <color name="colorHexGray">#F2F2F2</color>
-    <color name="colorLightGray">#aaa</color>
-    <color name="colorBlack">#000000</color>
-    <color name="timetableGray">#EBEBEB</color>
-    <color name="myPageBlack">#4F4F4F</color>
 
-    <color name="mapboxWhite">#ffffff</color>
-    <color name="mapboxBlue">#4264fb</color>
-    <color name="mapboxGrayLight">#c6d2e1</color>
-    <color name="mapboxPink">#ee4e8b</color>
-    <color name="mapboxYellow">#d9d838</color>
-    <color name="mapboxRed">#b43b71</color>
+    <color name="purple_200">#0277BD</color>
+    <color name="purple_500">#039BE5</color>
+    <color name="purple_700">#546E7A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
 
     <!--WearWeather Color-->
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
     <color name="colorRed">#FF0000</color>
     <color name="colorDarkGray">#333</color>
+    <color name="colorLightGray">#aaa</color>
     <color name="colorLightBlue">#D9E8FF</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="bottomview_select">#5e5ada</color>
+    <color name="bottomview_unselect">#d6d6d6</color>
 </resources>
